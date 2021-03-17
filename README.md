@@ -4,4 +4,4 @@ In todays episode we are gonna an image slider, but we’re also going to have t
 
 Watch it on Youtube:
 
-👉 https://youtu.be/ZavWGEqDx24
+➤ https://youtu.be/ZavWGEqDx24
